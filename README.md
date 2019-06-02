@@ -27,3 +27,6 @@ usage: python main.py -c configs/<any config file>
 
 example:
 python main.py -c configs/BiLSTM_model_title.json
+
+## Methodology
+![Alt text](images/methodology.png "Methodology")
