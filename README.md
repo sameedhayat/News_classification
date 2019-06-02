@@ -30,3 +30,6 @@ python main.py -c configs/BiLSTM_model_title.json
 
 ## Methodology
 ![Alt text](images/methodology.png "Methodology")
+
+## Model Architecture
+![Alt text](images/architecture.png "Architecture")
